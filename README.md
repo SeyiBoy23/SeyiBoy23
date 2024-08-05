@@ -1,4 +1,4 @@
-
+![Seyi's Linkedin Banner](https://github.com/user-attachments/assets/50fcae57-1c39-4fbc-8475-46aab0885acc)
 
 <h1 align="center">Hi 👋, I'm Seyi Ibigbemi</h1>
 <h3 align="center">Aspiring Data Scientists</h3>
