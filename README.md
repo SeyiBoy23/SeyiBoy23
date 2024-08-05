@@ -1,4 +1,4 @@
- ![alt text](https://github.com/SeyiBoy23/SeyiBoy23/blob/main/Seyi's%20Linkedin%20Banner.png")
+ ("https://github.com/SeyiBoy23/SeyiBoy23/blob/main/Seyi's%20Linkedin%20Banner.png")
 
 <h1 align="center">Hi 👋, I'm Seyi Ibigbemi</h1>
 <h3 align="center">Aspiring Data Scientists</h3>
